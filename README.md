@@ -17,8 +17,7 @@ akaNakai = {
     respositories: 'https://github.com/DiegoLuQ'
 ```
 
-- 🔭 I’m currently working on [Github Profilinator]
-(https://github.com/DiegoLuQ)  
+- 🔭 I’m currently working on [Github](https://github.com/DiegoLuQ)
   
 
 - 🌱 I’m currently learning React and TailwindCSS  
