@@ -1,10 +1,21 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" align="center" style="width: 80%" />
 </div>  
   
 
-### <div align="center">I'm Diego, a full-time full-stack developer 👨‍💻 🚀</div>  
-  
+### <div align="center">I'm full-stack developer 👨‍💻 🚀</div>  
+  ```python
+akaNakai = {
+    name: 'Diego Luque Linares',
+    userName: 'DiegoLuQ',
+    location: 'Iquique, Chile',
+    role: 'FullStack',
+    workingIn: {
+        enterprise: 'Macaya',
+        role: 'Data Analyst'
+    },
+    respositories: 'https://github.com/DiegoLuQ'
+```
 
 - 🔭 I’m currently working on [Github Profilinator]
 (https://github.com/DiegoLuQ)  
@@ -82,30 +93,8 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DiegoLuQ&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=DiegoLuQ&&style=flat-square)  
-  
-
-<br/>  
 
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
