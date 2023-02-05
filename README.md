@@ -9,12 +9,13 @@ akaNakai = {
     name: 'Diego Luque Linares',
     userName: 'DiegoLuQ',
     location: 'Iquique, Chile',
-    role: 'FullStack',
+    role: 'Backend',
     workingIn: {
         enterprise: 'Macaya',
         role: 'Data Analyst'
     },
-    respositories: 'https://github.com/DiegoLuQ'
+    respositories: 'https://github.com/DiegoLuQ',
+    webPersonal: 'https://www.diego-luque.com/'
 ```
 
 - 🔭 I’m currently working on [Github](https://github.com/DiegoLuQ)
