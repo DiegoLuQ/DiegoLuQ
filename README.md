@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm full-stack developer 👨‍💻 🚀</div>  
   ```python
-akaNakai = {
+Nakai = {
     name: 'Diego Luque Linares',
     userName: 'DiegoLuQ',
     location: 'Iquique, Chile',
